@@ -1,6 +1,22 @@
-# React homework template
+# Kapusta
 
-Этот проект был создан при помощи
-[Create React App](https://github.com/facebook/create-react-app). Для знакомства
-и настройки дополнительных возможностей
-[обратись к документации](https://facebook.github.io/create-react-app/docs/getting-started).
+## [beckend part ](https://github.com/mrok-creator/kapusta-bank-backend/tree/main)
+
+### To open Locally you need:
+*to init project with the command 
+```
+yarn
+``` 
+or if you use npm 
+```
+npm init 
+```
+*start the project with the  command 
+```
+yarn start 
+```
+or if you use npm 
+```
+npm start 
+```
+
